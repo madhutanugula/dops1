@@ -1,2 +1,6 @@
 hii this is madhu.
-intense 
+intense
+
+to add new branch to Repository:-
+----------------------------------------------
+==> git push --set-upstream origin PreRelease 
